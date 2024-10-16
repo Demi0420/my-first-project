@@ -1,12 +1,16 @@
 # About my first project on GitHub.
 
 Hi, I'm demi.
+<details>
+<summary> My top languages </summary>
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
 |     2| SQL       |
 |     3| LaTex     |
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
